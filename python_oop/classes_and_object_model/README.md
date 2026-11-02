@@ -12,3 +12,4 @@ attributes, methods, encapsulation and string representation.
 | `2-square.py` | `Square` with `size` validation (TypeError / ValueError) |
 | `3-square.py` | `Square` with public method `area()` |
 | `4-square.py` | `Square` with `size` getter and setter (`@property`) |
+| `5-square.py` | `Square` with method `my_print()` that prints it with `#` |
