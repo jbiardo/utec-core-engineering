@@ -14,3 +14,4 @@ attributes, methods, encapsulation and string representation.
 | `4-square.py` | `Square` with `size` getter and setter (`@property`) |
 | `5-square.py` | `Square` with method `my_print()` that prints it with `#` |
 | `6-square.py` | `Square` with `position`, `__str__` and positioned `my_print()` |
+| `1-rectangle.py` | `Rectangle` with validated `width` and `height` |
