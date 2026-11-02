@@ -15,3 +15,4 @@ attributes, methods, encapsulation and string representation.
 | `5-square.py` | `Square` with method `my_print()` that prints it with `#` |
 | `6-square.py` | `Square` with `position`, `__str__` and positioned `my_print()` |
 | `1-rectangle.py` | `Rectangle` with validated `width` and `height` |
+| `2-rectangle.py` | `Rectangle` with `area()` and `perimeter()` |
