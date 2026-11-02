@@ -1,0 +1,10 @@
+# Python - Inheritance
+
+Inheritance and polymorphism in Python: parent and child classes,
+method overriding, `isinstance()` and `issubclass()`.
+
+## Tasks
+
+| File | Description |
+|------|-------------|
+| `0-polymorphism_demo.py` | `Animal`, `Dog` and `Cat` demo of inheritance and polymorphism |
