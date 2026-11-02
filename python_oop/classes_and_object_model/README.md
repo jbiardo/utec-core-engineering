@@ -13,3 +13,4 @@ attributes, methods, encapsulation and string representation.
 | `3-square.py` | `Square` with public method `area()` |
 | `4-square.py` | `Square` with `size` getter and setter (`@property`) |
 | `5-square.py` | `Square` with method `my_print()` that prints it with `#` |
+| `6-square.py` | `Square` with `position`, `__str__` and positioned `my_print()` |
