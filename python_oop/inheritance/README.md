@@ -12,3 +12,4 @@ method overriding, `isinstance()` and `issubclass()`.
 | `1-rectangle.py` | `Rectangle(BaseGeometry)` validated with `integer_validator` |
 | `2-rectangle.py` | `Rectangle` with its own `area()` and `__str__` |
 | `1-square.py` | `Square(Rectangle)` initialized with `super()` |
+| `2-square.py` | `Square` with its own `__str__` |
